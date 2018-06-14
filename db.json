@@ -1,6 +1,11 @@
 {
-	"name": "world cup football 2018",
-	"groups": [
-		{"name" : "Group A"}
+  "groups": [
+    {
+      "name": "Group A",
+      "teams" : [
+		{"name" : "Egypt"},
+		{"name" : "Russia"}
 	]
+    }
+  ]
 }
