@@ -1,6 +1,6 @@
 {
 	"name": "world cup football 2018",
 	"groups": [
-		"name":"Group A"
+		{"name" : "Group A"}
 	]
 }
